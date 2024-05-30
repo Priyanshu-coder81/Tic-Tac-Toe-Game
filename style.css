@@ -63,7 +63,7 @@ body{
 .msg{
     font-size: 6vmin;
     font-weight: bold;
-    padding: 4vmin
+    padding: 4vmin;
 }
 .hide{
     display: none;
@@ -72,5 +72,5 @@ body{
 .msgreset{
     font-size: 6vmin;
     font-weight: bold;
-    padding: 4vmin
+    padding: 4vmin;
 }
